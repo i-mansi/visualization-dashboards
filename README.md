@@ -13,7 +13,9 @@ Excel/CSV files – Supporting datasets
 
 **4. Features**
 📊 Revenue & Profit Tracking – Monitor overall revenue ($24.9M) and profit ($10.5M).
+
 📦 Orders Analysis – Total orders (25.2K) with category breakdown (Accessories, Bikes, Clothing).
+
 🔄 Return Rate Monitoring – Overall return rate of 2.2%, with product-level return percentages.
 📈 Weekly Revenue Trends – Interactive time-series chart showing growth patterns since Jan 2020.
 💰 Monthly Revenue Comparison – Current month vs. previous month with percentage growth.
