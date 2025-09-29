@@ -67,4 +67,4 @@ Excel/CSV files – Supporting datasets
 
 -Monthly orders slightly declined (-0.88%), highlighting a need to improve customer acquisition or repeat purchase strategies.
 
-Monthly returns decreased (-1.78%), showing progress in quality control and customer experience.
+-Monthly returns decreased (-1.78%), showing progress in quality control and customer experience.
