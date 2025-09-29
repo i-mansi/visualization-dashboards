@@ -7,7 +7,7 @@ The Adventure Works Dashboard is a visually engaging and analytical business int
 
 **3. Tech Stack**
 
-The dashboard was built using the following tools and technologies:
+The dashboard is built using the following tools and technologies:
 
 Power BI – Main visualization and reporting platform
 
@@ -17,11 +17,11 @@ Excel/CSV files – Supporting datasets
 
 **4. Features**
 
-📊 Revenue & Profit Tracking – Monitor overall revenue ($24.9M) and profit ($10.5M).
+📊 Revenue & Profit Tracking – Monitor overall **revenue ($24.9M)** and **profit ($10.5M)**.
 
-📦 Orders Analysis – Total orders (25.2K) with category breakdown (Accessories, Bikes, Clothing).
+📦 Orders Analysis – **Total orders (25.2K)** with category breakdown (Accessories, Bikes, Clothing).
 
-🔄 Return Rate Monitoring – Overall return rate of 2.2%, with product-level return percentages.
+🔄 Return Rate Monitoring – Overall **return rate** of **2.2%**, with product-level return percentages.
 
 📈 Weekly Revenue Trends – Interactive time-series chart showing growth patterns since Jan 2020.
 
@@ -59,12 +59,12 @@ Excel/CSV files – Supporting datasets
 
 -Accessories lead sales with 17K orders, showing strong customer demand compared to Bikes (13.9K) and Clothing (7K).
 
--Top-performing product is the 30 oz Water Bottle, driving ~$39.7K revenue with ~4K orders, though it has a slightly high 1.9% return rate.
+-**Top-performing product** is the 30 oz **Water Bottle**, driving **~$39.7K revenue** with **~4K orders**, though it has a slightly high 1.9% return rate.
 
--Return rates remain low (2.2% overall), indicating good product quality and customer satisfaction.
+-**Return rates** remain low (**2.2%** overall), indicating good product quality and customer satisfaction.
 
--Revenue is steadily increasing, with current monthly revenue ($1.83M) showing 3.31% growth over the previous month.
+-Revenue is steadily increasing, with current **monthly revenue ($1.83M)** showing **3.31% growth** over the previous month.
 
--Monthly orders slightly declined (-0.88%), highlighting a need to improve customer acquisition or repeat purchase strategies.
+-**Monthly orders** slightly declined **(-0.88%)**, highlighting a need to improve customer acquisition or repeat purchase strategies.
 
--Monthly returns decreased (-1.78%), showing progress in quality control and customer experience.
+-**Monthly returns** decreased **(-1.78%)**, showing progress in quality control and customer experience.
