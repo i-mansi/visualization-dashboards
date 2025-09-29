@@ -35,13 +35,13 @@ Excel/CSV files – Supporting datasets
 
 **5. Insights & Use Cases**
 
-Identify high-performing product categories and SKUs driving revenue.
+-Identify high-performing product categories and SKUs driving revenue.
 
-Monitor return rates to detect product quality or customer satisfaction issues.
+-Monitor return rates to detect product quality or customer satisfaction issues.
 
-Track revenue and orders growth month-over-month.
+-Track revenue and orders growth month-over-month.
 
-Support strategic business decisions through data-driven insights.
+-Support strategic business decisions through data-driven insights.
 
 **6.Business Impact**
 
@@ -57,14 +57,14 @@ Support strategic business decisions through data-driven insights.
 
 **7.Key Insights from the Dashboard**
 
-Accessories lead sales with 17K orders, showing strong customer demand compared to Bikes (13.9K) and Clothing (7K).
+-Accessories lead sales with 17K orders, showing strong customer demand compared to Bikes (13.9K) and Clothing (7K).
 
-Top-performing product is the 30 oz Water Bottle, driving ~$39.7K revenue with ~4K orders, though it has a slightly high 1.9% return rate.
+-Top-performing product is the 30 oz Water Bottle, driving ~$39.7K revenue with ~4K orders, though it has a slightly high 1.9% return rate.
 
-Return rates remain low (2.2% overall), indicating good product quality and customer satisfaction.
+-Return rates remain low (2.2% overall), indicating good product quality and customer satisfaction.
 
-Revenue is steadily increasing, with current monthly revenue ($1.83M) showing 3.31% growth over the previous month.
+-Revenue is steadily increasing, with current monthly revenue ($1.83M) showing 3.31% growth over the previous month.
 
-Monthly orders slightly declined (-0.88%), highlighting a need to improve customer acquisition or repeat purchase strategies.
+-Monthly orders slightly declined (-0.88%), highlighting a need to improve customer acquisition or repeat purchase strategies.
 
 Monthly returns decreased (-1.78%), showing progress in quality control and customer experience.
